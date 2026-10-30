@@ -80,7 +80,7 @@ void draw()
  
         // -- Draw ball
         noStroke();
-        fill(0, 0, 255);
+        fill(0, 255, 0);
         circle(xPos, yPos, 2 * radius);
  
         // -- Check rebounds against left and right walls
